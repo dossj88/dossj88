@@ -1,10 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1 align="center">Hi :wave:,&nbsp; My name is Jason Doss</h1>
+  <h3 align="center">A full-stack developer located in Huntington Beach:surfer:.</h3>
 
-<!--
-**dossj88/dossj88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/jason-doss-126a64248/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <p> <img src="https://komarev.com/ghpvc/?username=jason-doss-126a64248&label=Profile%20views&color=0e75b6&style=flat" alt="jason-doss-126a64248" /> </p>
+     </div>
 
-Here are some ideas to get you started:
+</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dossj88" alt="dossj88 /></a> </p>
 
+---
+### :computer:&nbsp; About Me :
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
