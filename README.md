@@ -14,12 +14,9 @@
      </div>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dossj88" alt="dossj88 /></a> </p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<br>
 
 ---
 
