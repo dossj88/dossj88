@@ -21,10 +21,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dossj88" alt="dossj88 /></a> </p>
 
 ---
----
+
 ### :computer:&nbsp; About Me :
   
-- 🌱 I’m currently learning: <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+- 🌱 I’m currently learning: **<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;**
 - 💬 Ask me about **Street Bikes 🏍**
 - 📫 How to reach me: **jason.j.doss@gmail.com**
 - ⚡ Fun fact: **I love traveling with my :family:**
