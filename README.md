@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Street Bikes 🏍**
 
-- 📫 How to reach me: **jason.j.doss@gmail.com**, [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/jason-doss-126a64248/)])
+- 📫 How to reach me: **jason.j.doss@gmail.com**, [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jason-doss-126a64248/])
 
 - ⚡ Fun fact: **I love traveling with my :family:**
 
