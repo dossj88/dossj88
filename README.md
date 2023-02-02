@@ -52,6 +52,11 @@
 
 ---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dossj88&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jason-doss-126a64248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-doss-126a64248/" height="30" width="40" /></a>
