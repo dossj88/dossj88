@@ -25,11 +25,8 @@
 ### :computer:&nbsp; About Me :
   
 - 🌱 I’m currently learning: <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
-
 - 💬 Ask me about **Street Bikes 🏍**
-
 - 📫 How to reach me: **jason.j.doss@gmail.com**
-
 - ⚡ Fun fact: **I love traveling with my :family:**
 
 ---
